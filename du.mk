@@ -4,4 +4,4 @@ $(call inherit-product, device/motorola/titan/full_titan.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_RELEASE_NAME := titan
-PRODUCT_NAME := cm_titan
+PRODUCT_NAME := du_titan
